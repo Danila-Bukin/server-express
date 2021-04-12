@@ -1,0 +1,9 @@
+{
+  "name": "server-week6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/Danila-Bukin/server-week6.git",
+  "author": "Danila-Bukin <bukin-danila@mail.ru>",
+  "license": "MIT"
+}
