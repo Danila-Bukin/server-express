@@ -5,5 +5,11 @@
   "type": "module",
   "repository": "https://github.com/Danila-Bukin/server-week6.git",
   "author": "Danila-Bukin <bukin-danila@mail.ru>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
